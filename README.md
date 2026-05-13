@@ -5,7 +5,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-![Score](https://img.shields.io/badge/Score-47--48%2F50-gold?style=for-the-badge)
 
 **A full-scale retail sales intelligence project built entirely in Microsoft Excel**  
 *Covering data analysis, interactive dashboards, statistical modelling, and business storytelling*
@@ -22,7 +21,6 @@
 
 The goal was to extract meaningful business intelligence using advanced Excel features — from formula-based analysis to interactive dashboards and statistical regression.
 
-> 🎓 This is a **50-mark academic project** targeting a score of **47–48/50**
 
 ---
 
