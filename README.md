@@ -131,7 +131,7 @@ Raw Data (250 rows)
 
 - **FILTER Function** — Dynamic multi-column filter extracting all Premium segment customer transactions in real time.
 
-  ![Filter Function](screenshots/Screenshot_2026-05-17_141648.png)
+  ![Filter Function](screenshots/filter-function-premium-customers.png)
 
 - **Compare Two Lists** — COUNTIF-based matching of North region customers vs Premium customers, returning matched names or "No match".
 
@@ -143,7 +143,7 @@ Raw Data (250 rows)
 
 - **Timestamp** — Auto-generated timestamp using iterative calculation to record when the sheet was last refreshed.
 
-  ![Timestamp](screenshots/Screenshot_2026-05-17_141022.png)
+  ![Timestamp](screenshots/timestamp-generated.png)
 
 ---
 
