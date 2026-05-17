@@ -4,7 +4,6 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 **A full-scale retail sales intelligence project built entirely in Microsoft Excel**  
 *Covering data analysis, interactive dashboards, statistical modelling, and business storytelling*
@@ -80,22 +79,22 @@ Raw Data (250 rows)
 
 ## ✨ Key Features
 
-| Feature | Description | Status |
-|--------|-------------|--------|
-| 📅 Date & Time Functions | TODAY, NOW, DATEDIF, EOMONTH | ✅ |
-| 🔍 FILTER Function | Multi-value dynamic filtering | ✅ |
-| 👥 GroupBy Analysis | High-Value Customers via SUMIF | ✅ |
-| 🔤 TEXT Functions | Abbreviations, Initials, Short Codes | ✅ |
-| 🕐 Timestamp | Iterative calculation timestamp | ✅ |
-| 📋 Compare Two Lists | COUNTIF-based list matching | ✅ |
-| 🎯 Scenario Manager | Best / Base / Worst case projections | ✅ |
-| 🎯 Goal Seek | Target revenue quantity analysis | ✅ |
-| 📉 Linear Regression | Unit Price → Revenue (R²=0.698) | ✅ |
-| 🎛️ Interactive Dashboard | Pivot Tables + Charts + Slicers | ✅ |
-| ⏱️ Timeline Filter | Date-based pivot filtering | ✅ |
-| 📊 KPI Indicators | 4 KPIs with conditional formatting | ✅ |
-| 🎨 Icon Formatting | Arrow icons on value segments | ✅ |
-| 📝 Final Report | 8 business insights with storytelling | ✅ |
+| Feature | Description |
+|--------|-------------|
+| 📅 Date & Time Functions | TODAY, NOW, DATEDIF, EOMONTH |
+| 🔍 FILTER Function | Multi-value dynamic filtering |
+| 👥 GroupBy Analysis | High-Value Customers via SUMIF |
+| 🔤 TEXT Functions | Abbreviations, Initials, Short Codes |
+| 🕐 Timestamp | Iterative calculation timestamp |
+| 📋 Compare Two Lists | COUNTIF-based list matching |
+| 🎯 Scenario Manager | Best / Base / Worst case projections |
+| 🎯 Goal Seek | Target revenue quantity analysis |
+| 📉 Linear Regression | Unit Price → Revenue (R²=0.698) |
+| 🎛️ Interactive Dashboard | Pivot Tables + Charts + Slicers |
+| ⏱️ Timeline Filter | Date-based pivot filtering |
+| 📊 KPI Indicators | 4 KPIs with conditional formatting |
+| 🎨 Icon Formatting | Arrow icons on value segments |
+| 📝 Final Report | 8 business insights with storytelling |
 
 ---
 
@@ -132,7 +131,7 @@ Raw Data (250 rows)
 
 - **FILTER Function** — Dynamic multi-column filter extracting all Premium segment customer transactions in real time.
 
-  ![Filter Function](screenshots/filter-function-premium-customers.png)
+  ![Filter Function](screenshots/Screenshot_2026-05-17_141648.png)
 
 - **Compare Two Lists** — COUNTIF-based matching of North region customers vs Premium customers, returning matched names or "No match".
 
@@ -144,7 +143,7 @@ Raw Data (250 rows)
 
 - **Timestamp** — Auto-generated timestamp using iterative calculation to record when the sheet was last refreshed.
 
-  ![Timestamp](screenshots/timestamp-generated.png)
+  ![Timestamp](screenshots/Screenshot_2026-05-17_141022.png)
 
 ---
 
